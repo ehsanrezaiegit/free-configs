@@ -2,4 +2,3 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.tx
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
-https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
